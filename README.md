@@ -10,5 +10,5 @@
 - 👯 I’m looking to collaborate on Software Development projects
 - 🤔 I’m looking for help with mentoring
 - 💬 Ask me about my journey
-- 📫 How to reach me: papacobbold@yahoo.com
+- 📫 How to reach me: joseph.cobbold@outlook.com
 - ⚡ Fun fact: ... Im a clean freak!
