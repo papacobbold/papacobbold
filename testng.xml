@@ -1,0 +1,7 @@
+<suite name="PlaywrightSuite" verbose="1" outputDirectory="test-output">
+    <test name="BasicTests">
+        <classes>
+            <class name="com.techelevator.tests.FirstTest"/>
+        </classes>
+    </test>
+</suite>
